@@ -1,0 +1,6 @@
+c:\users\alex g\documents\visual studio 2015\Projects\Rock_paper_ect\Rock_paper_ect\bin\Debug\Rock_paper_ect.exe.config
+c:\users\alex g\documents\visual studio 2015\Projects\Rock_paper_ect\Rock_paper_ect\obj\Debug\Rock_paper_ect.csprojResolveAssemblyReference.cache
+c:\users\alex g\documents\visual studio 2015\Projects\Rock_paper_ect\Rock_paper_ect\bin\Debug\Rock_paper_ect.exe
+c:\users\alex g\documents\visual studio 2015\Projects\Rock_paper_ect\Rock_paper_ect\bin\Debug\Rock_paper_ect.pdb
+c:\users\alex g\documents\visual studio 2015\Projects\Rock_paper_ect\Rock_paper_ect\obj\Debug\Rock_paper_ect.exe
+c:\users\alex g\documents\visual studio 2015\Projects\Rock_paper_ect\Rock_paper_ect\obj\Debug\Rock_paper_ect.pdb
